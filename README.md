@@ -91,17 +91,17 @@ gestion-salaires
 ## ▶️ Lancement de l’application
 
 1. Créer une base de données MySQL nommée :
-   ```sql
+   ```
    CREATE DATABASE tp_hibernete;
-````
+   ````
 
-2. Vérifier la configuration dans `hibernate.cfg.xml`
+3. Vérifier la configuration dans `hibernate.cfg.xml`
 
-3. Mettre à jour les dépendances Maven :
+4. Mettre à jour les dépendances Maven :
 
    * Clic droit sur le projet → Maven → Update Project
 
-4. Lancer la classe :
+5. Lancer la classe :
 
    ```
    app.Main
